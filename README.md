@@ -1,2 +1,4 @@
 # hometown-homepage
- Created a Hometown Homepage following Figma Design
+ created a hometown homepage following figma design. 
+ 
+ see deployed website at https://glistening-hummingbird-beff67.netlify.app
